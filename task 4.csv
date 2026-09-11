@@ -1,0 +1,7 @@
+department_name,employee_name,job_role,salary
+Finance,"Karthik Raj",Accountant,48000.00
+"Human Resources","Priya Sharma","HR Executive",42000.00
+"Information Technology","Arun Kumar","Senior Software Developer",55000.00
+"Information Technology","Meena Rao","Database Administrator",58000.00
+Marketing,"Sneha Devi","Marketing Executive",45000.00
+Operations,"Rahul Das","Operations Manager",65000.00
