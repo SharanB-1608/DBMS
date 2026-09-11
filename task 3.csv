@@ -1,0 +1,5 @@
+product_id,product_name,category,quantity,reorder_level,stock_status
+401,"Mechanical Keyboard",Accessories,32,12,"In Stock"
+402,"Bluetooth Speaker",Audio,18,10,"In Stock"
+403,"Dual Band Router",Networking,21,8,"In Stock"
+405,"Ergonomic Mouse",Accessories,27,15,"In Stock"
