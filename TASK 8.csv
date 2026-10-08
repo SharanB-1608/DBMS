@@ -1,0 +1,5 @@
+customer_id,customer_name,order_count,item_value
+1,Arun,2,52000.00
+2,Priya,1,12000.00
+3,Kumar,1,500.00
+4,Divya,0,0.00
